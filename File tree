@@ -1,0 +1,22 @@
+ai-training-recommendation-engine/
+├── backend/
+│ ├── app.py
+│ ├── models.py
+│ ├── parser.py
+│ ├── recommender.py
+│ ├── data_pipeline/
+│ │ └── scraper.py
+│ ├── requirements.txt
+│ ├── Dockerfile
+│ └── docker-compose.yml
+├── frontend/
+│ ├── package.json
+│ ├── public/index.html
+│ └── src/
+│ ├── index.js
+│ ├── App.jsx
+│ └── components/
+│ ├── Dashboard.jsx
+│ └── UploadResume.jsx
+├── README.md
+└── .gitignore
